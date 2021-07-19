@@ -5,7 +5,8 @@
     "description": "Bono NFT",
     "external_url": "https://bono.tech/",
     "image": "https://d2kvn4ovb7y1wn.cloudfront.net/token-image/ethereum/0xfd1f40e0af44f8dbf1f07c12164dbace0b0f32d4.png?ver=1001",
-    "name": "Bono NFT 0"
+    "name": "Bono NFT 0",
+      "developer": "chul ho kim"
     }
   ]
 }
